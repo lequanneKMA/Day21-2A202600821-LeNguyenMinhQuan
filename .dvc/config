@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = myremote
+[remote "myremote"]
+    url = /home/lnmq/code/AI/Day21-Track2-CI-CD-for-AI-Systems/dvc_local_remote
